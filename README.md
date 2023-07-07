@@ -38,8 +38,9 @@ To use this repository, follow the steps below:
 
 3. Install the required dependencies by running the following command:
 
+
    ```bash
-   npm install
+   npm install toastify recoil react-icons react-router react-youtube @uiw/react-codemirror @uiw/codemirror-theme-vscode @codemirror/lang-javascript split
    ```
 
    This will install all the necessary libraries and packages.
@@ -68,7 +69,6 @@ To run the LeetCode Clone project, the following dependencies are required:
 - `@codemirror/lang-javascript`: CodeMirror language mode for JavaScript.
 - `split`: Library for creating resizable split views.
 
-You can install these dependencies using the following command:
 
 ```bash
 npm install toastify recoil react-icons react-router react-youtube @uiw/react-codemirror @uiw/codemirror-theme-vscode @codemirror/lang-javascript split
