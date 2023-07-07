@@ -78,7 +78,7 @@ npm install toastify recoil react-icons react-router react-youtube @uiw/react-co
 
 You can access a live preview of the LeetCode Clone project by visiting the following website:
 
-[https://leetcode-clone-nsa7.vercel.app/](https://leetcode-clone-nsa7.vercel.app/)
+[https://leetcode-clone-nsa7.vercel.app/](https://leetcode-clone-nsa7-git-main-mridangk.vercel.app/)
 
 Feel free to explore the platform, solve coding problems, and test your solutions!
 
