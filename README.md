@@ -1,6 +1,5 @@
 # LeetCode Clone
 
-![LeetCode Clone](https://github.com/your-username/leetcode-clone/blob/main/leetcode-clone.png)
 
 This project is a clone of LeetCode, a popular platform for practicing coding interview questions. It allows users to solve coding problems, write and submit code, and receive instant feedback on whether their test cases pass. The project utilizes Firebase for user authentication and provides a seamless user experience.
 
