@@ -38,7 +38,10 @@ To use this repository, follow the steps below:
 
 3. Install the required dependencies by running the following command:
 
-
+   ```bash
+   npm install
+   ```
+   
    ```bash
    npm install toastify recoil react-icons react-router react-youtube @uiw/react-codemirror @uiw/codemirror-theme-vscode @codemirror/lang-javascript split
    ```
